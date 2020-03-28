@@ -1,7 +1,7 @@
 %% ENSC 895 G200 Assignment 1
 % Due: Friday 17 January 2020
 % -----
-% @author: Ashiv Hans Dhondea (301400489)
+% @author: Ashiv Hans Dhondea
 % Course: ENSC 895 G200
 % Institution: Simon Fraser University - Engineering Science
 % email: hdhondea@sfu.ca
